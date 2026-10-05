@@ -39,8 +39,9 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "YOUR_EAS_PROJECT_ID"
+        "projectId": "97319d06-36da-43b4-8b73-7500dd48ea1a"
       }
-    }
+    },
+    "owner": "alisongomes92"
   }
 }
